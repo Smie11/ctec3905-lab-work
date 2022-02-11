@@ -1,0 +1,35 @@
+
+nav {
+  display: flex;
+  width: 15vw;
+  flex-direction: column;
+
+}
+
+nav a {
+  background-color: black;
+  color: white;
+  padding: 0.15em 0.5em;
+  margin: 0.50em 0.5em;
+  transition: background-color 0.2s;
+
+}
+
+nav a:hover {
+  background-color: blue;
+}
+header, main {
+  overflow: auto;
+}
+section
+{
+  width: 85vw;
+  padding: right;
+  box-sizing: border-box;
+  display: flex;
+}
+main{
+  display: flex;
+  flex-direction: row-row-reverse;
+  <script src="scripts.js"></script>
+}
